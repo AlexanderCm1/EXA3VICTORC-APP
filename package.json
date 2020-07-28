@@ -19,7 +19,12 @@
     "@angular/platform-browser": "~9.1.11",
     "@angular/platform-browser-dynamic": "~9.1.11",
     "@angular/router": "~9.1.11",
+    "bootstrap": "^4.5.0",
+    "chokidar": "^3.4.1",
+    "classlist.js": "^1.1.20150312",
+    "jquery": "^3.5.1",
     "rxjs": "~6.5.4",
+    "rxjs-compat": "^6.6.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },
